@@ -46,3 +46,4 @@ output must be used as per the DeleteMany command type.
 
 
 Dependencies on MongoDB.Driver - In the Manage Packages (in UiPath Studio) - Search and install - MongoDB.Driver by author - MongoDB Inc. 
+#### Package is also published at UiPath Marketplace - https://marketplace.uipath.com/listings/uipath-mongo-activities
